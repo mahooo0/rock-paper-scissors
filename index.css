@@ -3,9 +3,10 @@
     height: 500px;
     background-color: blanchedalmond;
 }
-.box img {
+.box_div {
     width: 151px;
     height: 182px;
+    margin-bottom: 2rem;
 }
 .box h2{
     font-size: 4rem;
